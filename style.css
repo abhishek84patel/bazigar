@@ -54,7 +54,7 @@ header{
     padding-top: 100px;
 }
 .hero-content{
-max-width: 100%;
+width: 100%;
 }
 .flex{
     display: flex;
@@ -110,7 +110,7 @@ max-width: 100%;
 
 @media screen and (max-width:768px){
     .container {
-        padding: 20px;
+        padding: 40px;
     }
     .hero-section{
         padding-top: 70px;
