@@ -68,7 +68,7 @@ max-width: 500px;
 .hero-content p{
     margin-top: 20px;
     line-height: 25px;
-    max-width: 500px;
+   
 }
 .btn{
     margin-top: 20px;
@@ -112,9 +112,7 @@ max-width: 500px;
     .hero-section{
         padding-top: 70px;
     }
-    .hero-content h1{
-        font-size: 2rem;
-    }
+   
     .flex{
         text-align: center;
         flex-direction: column-reverse;
