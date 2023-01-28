@@ -94,8 +94,7 @@ max-width: 500px;
     padding: 10px 15px;
 }
 .hero-img{
-max-width:300px
-flex-shrink: 0.8;
+max-width:300px;
 }
 .hero-img img{
     
