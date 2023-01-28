@@ -54,7 +54,7 @@ header{
     padding-top: 100px;
 }
 .hero-content{
-max-width: 500px;
+max-width: 100%;
 }
 .flex{
     display: flex;
@@ -96,6 +96,9 @@ max-width: 500px;
 /*.hero-img{
 ;
 }*/
+.hero-img {
+        width: 100%;
+    }
 .hero-img img{
     max-width:300px;
     width: 100%;
@@ -118,9 +121,7 @@ max-width: 500px;
         flex-direction: column-reverse;
         gap: 30px;
     }
-    /* .hero-img img{
-        width: 300px;
-    } */
+    
     .btn{
         margin-top: 20px;
     }
