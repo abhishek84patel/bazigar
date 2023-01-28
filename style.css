@@ -24,7 +24,8 @@ header{
 }
 .container{
     max-width:1200px;
-    padding-inline: 50px;
+width:80%;
+   
     margin-inline: auto;
 }
 .flex-head{
@@ -109,9 +110,9 @@ width: 100%;
 
 
 @media screen and (max-width:768px){
-    .container {
-        padding: 40px;
-    }
+  /*  .container {
+        width 
+    }*/
     .hero-section{
         padding-top: 70px;
     }
